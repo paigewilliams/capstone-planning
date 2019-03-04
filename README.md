@@ -64,7 +64,7 @@ Visit the code [here](https://github.com/paigewilliams/bike-transit-planner.git)
 - [ ] Parse response
 - [ ] Display line geometry in the map (I am assuming the line is an encoded geojson)
 
-## State slices <a name="state></a>
+## State slices <a name="state"></a>
 
 ## Data flow <a name="data"></a>
 
