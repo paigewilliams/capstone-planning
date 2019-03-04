@@ -45,11 +45,13 @@ Visit the code [here](https://github.com/paigewilliams/bike-transit-planner.git)
 
 ## Sketches and wireframes <a name="wireframe"></a>
 
+![alt-text](https://github.com/paigewilliams/capstone-planning/blob/master/sketch.jpg)
+
 ![alt-text](https://github.com/paigewilliams/bike-transit-planner/blob/component-tree/src/assets/wireframe.png)
 
 ## Component tree (3/3/2019) <a name="component"></a>
 
-![alt-text](https://github.com/paigewilliams/bike-transit-planner/blob/component-tree/)
+![alt-text](https://github.com/paigewilliams/capstone-planning/blob/master/capstone-tree.jpg)
 
 # Next steps as of 3/3/2019 <a name="steps"></a>
 
