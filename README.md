@@ -56,8 +56,8 @@ Visit the code [here](https://github.com/paigewilliams/bike-transit-planner.git)
 # Next steps as of 3/3/2019 <a name="steps"></a>
 
 - [ ] Create About modal to explain app to user
-- [ ] Gather form input
-- [ ] Hide form upon submission, show result list
+- [x] Gather form input
+- [x] Hide form upon submission, show result list
 - [ ] Encode address to place into API call
 - [ ] Make API call to Trimet Trip Planner
 - [ ] Create graphic for loading page (I am assuming the call will be slowish)
