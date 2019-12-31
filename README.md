@@ -53,16 +53,20 @@ Visit the code [here](https://github.com/paigewilliams/bike-transit-planner.git)
 
 ![alt-text](https://github.com/paigewilliams/capstone-planning/blob/master/capstone-tree.jpg)
 
-# Next steps as of 3/3/2019 <a name="steps"></a>
+# Next steps as of 12/31/2019 <a name="steps"></a>
 
 - [ ] Create About modal to explain app to user
 - [x] Gather form input
 - [x] Hide form upon submission, show result list
-- [ ] Encode address to place into API call
-- [ ] Make API call to Trimet Trip Planner
+- [x] Encode address to place into API call
+- [x] Make API call to Trimet Trip Planner
 - [ ] Create graphic for loading page (I am assuming the call will be slowish)
-- [ ] Parse response
-- [ ] Display line geometry in the map (I am assuming the line is an encoded geojson)
+- [x] Parse response
+- [x] Display line geometry in the map (I am assuming the line is an encoded geojson)
+- [ ] Add form validation (manage form with Formik)
+- [ ] Add error message if there is no route
+- [ ] Add user authentication and ability to save trips
+- [ ] Data visualizations of trips
 
 ## State slices <a name="state"></a>
 
